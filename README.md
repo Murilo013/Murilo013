@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Murilo Aqui 👋</h1>
+<h1 align="center">Olá, Murilo Aqui <img src= https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif></h1>
 
 ###
 
